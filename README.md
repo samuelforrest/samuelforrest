@@ -5,4 +5,5 @@ Hi there 👋, I am Sam!
 - 📫 How to reach me: samueljforrest (Instagram, LinkedIn)
 - 😄 Pronouns: He, Him
 - ⚡ Fun fact: I like smoothies.
-
+- 🎨 Hobbies: I have a passion for aviation and flight simulation.
+- 🎧 Music: I love it.
