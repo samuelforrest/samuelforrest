@@ -1,7 +1,6 @@
-Hi there 👋, I am Sam!
+Hi there 👋, I am Samuel
 
-- 🔭 I’m currently working on learning React Native for Android and IOS App Development.
-- 🌱 I’m currently learning Computer Science A Level, at St George's College.
-- 📫 How to reach me: samueljforrest (Instagram, LinkedIn)
+- 🌱 I’m currently studying A Levels, Mathematics, Computer Science, and Physics.
+- 📫 How to reach me: @samuelforrest (LinkedIn), @samueljforrest (instagram)
 - 😄 Pronouns: He, Him
 
