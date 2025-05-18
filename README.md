@@ -1,6 +1,6 @@
 <p align="left">
   Hi, I'm Samuel Forrest
-  <img src="https://samuelforrest.me/assets/android-chrome-512x512.png" alt="Banner" width="100%" />
+  <img src="https://samuelforrest.me/assets/android-chrome-512x512.png" alt="Banner" height="40px" />
 </p>
 
 Hi there 👋, I am Samuel Forrest
