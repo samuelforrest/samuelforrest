@@ -1,4 +1,5 @@
-<p align="center">
+<p align="left">
+  Hi, I'm Samuel Forrest
   <img src="https://samuelforrest.me/assets/android-chrome-512x512.png" alt="Banner" width="100%" />
 </p>
 
