@@ -1,5 +1,5 @@
 <p align="left">
-  <img src="https://samuelforrest.me/assets/android-chrome-512x512.png" alt="Banner" height="40px" />
+  <img src="https://samuelforrest.me/assets/android-chrome-512x512.png" alt="Banner" height="40px" padding-top="20px" />
   Hi, I'm Samuel Forrest
 </p>
 
