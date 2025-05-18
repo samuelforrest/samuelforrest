@@ -19,12 +19,15 @@
   <a href="mailto:samuel@samuelforrest.me" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
+  <a href="https://samuelforrest.me" target="_blank">
+    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=about.me&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
 <p align="center">
-  <b>🌱 Studying:</b> A Levels — Mathematics, Computer Science, Physics<br>
+  <b>📚 Studying:</b> A Levels — Mathematics, Physics, Computer Science<br>
 </p>
 
 ---
