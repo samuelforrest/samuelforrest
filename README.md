@@ -31,7 +31,7 @@
 
 <!-- Skill Icons -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,html,css,figma,github,vscode,macos" alt="Skills" />
+  <img src="https://skillicons.dev/icons?i=python,js,html,css,figma,github,vscode,ios" alt="Skills" />
 </p>
 
 <!-- GitHub Stats and Trophies -->
