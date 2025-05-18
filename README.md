@@ -5,7 +5,7 @@
 
 <!-- Typing Animation -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=000000&center=true&vCenter=true&width=440&lines=Hey%2C+I%27m+Samuel+Forrest!;Welcome+to+my+GitHub!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=000000&center=true&vCenter=true&width=440&lines=Hey%2C+I%27m+Samuel+Forrest!;Welcome+to+my+GitHub!;Visit+my+Website!" alt="Typing SVG" />
 </h1>
 
 <!-- Socials with Animated Icon -->
@@ -43,9 +43,3 @@
   <img src="https://streak-stats.demolab.com?user=samuelforrest&theme=tokyonight&hide_border=true" height="170">
 </p>
 
-
----
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7971E&center=true&vCenter=true&width=435&lines=Thanks+for+visiting!;Happy+coding+%F0%9F%98%89" alt="Thanks Typing SVG" />
-</p>
