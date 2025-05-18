@@ -31,13 +31,10 @@
 
 <!-- Skill Icons -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,html,css,figma,github,vscode,ios" alt="Skills" />
+  <img src="https://skillicons.dev/icons?i=python,js,html,css,figma,github,vscode" alt="Skills" />
 </p>
 
 <!-- GitHub Stats and Trophies -->
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=samuelforrest&theme=tokyonight&margin-w=10&column=7" alt="Trophies" />
-</p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=samuelforrest&show_icons=true&theme=tokyonight&hide=prs,contribs&count_private=true" height="170">
   <img src="https://streak-stats.demolab.com?user=samuelforrest&theme=tokyonight&hide_border=true" height="170">
