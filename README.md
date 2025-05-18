@@ -40,10 +40,6 @@
   <img src="https://streak-stats.demolab.com?user=samuelforrest&theme=tokyonight&hide_border=true" height="170">
 </p>
 
-<!-- Contribution Snake -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/samuelforrest/samuelforrest/output/github-contribution-grid-snake.svg" alt="Contribution Snake Animation">
-</p>
 
 ---
 
