@@ -5,14 +5,8 @@
 
 <!-- Typing Animation -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0FF7E6&center=true&vCenter=true&width=440&lines=Hey%2C+I%27m+Samuel+Forrest!;Code.+Learn.+Build.+Repeat.;Welcome+to+my+universe+%F0%9F%8C%8C" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=000000&center=true&vCenter=true&width=440&lines=Hey%2C+I%27m+Samuel+Forrest!;Code.+Learn.+Build.+Repeat.;Welcome+to+my+universe+%F0%9F%8C%8C" alt="Typing SVG" />
 </h1>
-
-<!-- Gradient Tagline -->
-<p align="center">
-  <img src="https://img.shields.io/static/v1?label=Dreamer&message=Builder&color=purple&style=for-the-badge&logo=starship" />
-  <img src="https://img.shields.io/static/v1?label=Student&message=A-Levels&color=blueviolet&style=for-the-badge&logo=graduation-cap" />
-</p>
 
 <!-- Socials with Animated Icon -->
 <p align="center">
@@ -31,9 +25,6 @@
 
 <p align="center">
   <b>🌱 Studying:</b> A Levels — Mathematics, Computer Science, Physics<br>
-  <b>😄 Pronouns:</b> He/Him <br>
-  <b>⚡ Fun Fact:</b> I build stuff for fun and love learning new tech!<br>
-  <b>💡 Motto:</b> <span style="background: linear-gradient(90deg,#0ff7e6,#a770ef 80%);color:transparent;background-clip:text;-webkit-background-clip:text;">Never stop creating.</span>
 </p>
 
 ---
