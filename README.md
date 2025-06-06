@@ -5,7 +5,7 @@
 
 <!-- Typing Animation -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=000000&center=true&vCenter=true&width=440&lines=Hey%2C+I%27m+Samuel+Forrest!;Welcome+to+my+GitHub!;Visit+my+Website!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=ffffff&center=true&vCenter=true&width=440&lines=Hey%2C+I%27m+Samuel+Forrest!;Welcome+to+my+GitHub!;Visit+my+Website!" alt="Typing SVG" />
 </h1>
 
 <!-- Socials with Animated Icon -->
