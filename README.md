@@ -7,8 +7,6 @@
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=ffffff&center=true&vCenter=true&width=440&lines=Hey%2C+I%27m+Samuel+Forrest!;Welcome+to+my+GitHub!;Visit+my+Website!" alt="Typing SVG" />
 </h1>
-
-<!-- Socials with Animated Icon -->
 <p align="center">
   <a href="https://www.linkedin.com/in/samuelforrest/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -23,7 +21,6 @@
     <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=about.me&logoColor=white"/>
   </a>
 </p>
-
 <p align="center">
   <b>📚 Studying:</b> A Levels — Mathematics, Physics, Computer Science, EPQ<br>
   <b>👨‍💻 Coding:</b> Stock Simulator Applicaition for beginners!<br>
