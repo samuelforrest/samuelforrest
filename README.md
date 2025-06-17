@@ -1,6 +1,6 @@
 <!-- Banner with Glow -->
 <p align="center">
-  <img src="https://samuelforrest.me/assets/android-chrome-512x512.png" alt="Samuel Forrest Logo" width="120" style="filter: drop-shadow(0 0 15px #0ff);" />
+  <img src="https://samuelforrest.me/assets/favicon.png" alt="Samuel Forrest Logo" width="120" style="filter: drop-shadow(0 0 15px #0ff);" />
 </p>
 
 <!-- Typing Animation -->
