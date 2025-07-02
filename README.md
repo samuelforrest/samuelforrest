@@ -24,6 +24,7 @@
 <p align="center">
   <b>📚 Studying:</b> A Levels — Mathematics, Physics, Computer Science, EPQ<br><br>
   <b>👨‍💻 Coding:</b> Stock Simulator Applicaition for beginners!<br>
+  <b>And a top secret AI app...<br>
 </p>
 
 ---
