@@ -23,7 +23,7 @@
 </p>
 <p align="center">
   <b>📚 Studying:</b> A Levels — Mathematics, Physics, Computer Science, EPQ<br><br>
-  <b>👨‍💻 Coding:</b> Stock Simulator Applicaition for beginners!<br>
+  <b>👨‍💻 Coding:</b> Tradelingo, aka. Duolingo for Trading <a src="https://tradelingo.samuelforrest.me">Landing Page</a><br>
   <b>And a top secret AI app...<br>
 </p>
 
