@@ -1,9 +1,7 @@
-<!-- Banner with Glow -->
 <p align="center">
   <img src="https://samuelforrest.me/assets/web-app-manifest-512x512.png" alt="Samuel Forrest Logo" width="120" style="filter: drop-shadow(0 0 15px #0ff);" />
 </p>
 
-<!-- Typing Animation -->
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=ffffff&center=true&vCenter=true&width=440&lines=Hey%2C+I%27m+Samuel+Forrest!;Welcome+to+my+GitHub!;Visit+my+Website!" alt="Typing SVG" />
 </h1>
@@ -29,12 +27,10 @@
 
 ---
 
-<!-- Skill Icons -->
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,js,html,css,figma,github,vscode" alt="Skills" />
 </p>
 
-<!-- GitHub Stats and Trophies -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=samuelforrest&show_icons=true&theme=tokyonight&hide=prs,contribs&count_private=true" height="170">
 </p>
