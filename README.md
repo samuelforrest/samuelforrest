@@ -16,7 +16,6 @@
   Applying for <b>Degree Apprenticeships</b> & <b>University</b>
 </p>
 
----
 
 # About Me
 
