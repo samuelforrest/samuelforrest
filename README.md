@@ -21,7 +21,7 @@ Along the way, I've gained experience through:
 ## Links  
 
 - ✍️ [My Computing, AI and Aviation Blog](#)  
-- 📄 [Download My CV](#)  
+- 📄 [Download My CV](#https://www.samuelforrest.me/assets/cv.pdf)  
 ---
 
 <p align="center">
