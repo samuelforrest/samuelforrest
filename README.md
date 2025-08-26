@@ -11,10 +11,10 @@ I started coding when I was 10, adventuring into **HTML, CSS and JavaScript**.
 Fast forward to now, I'm 17, studying A Levels at **St George's College, Weybridge**, while building **Tradelingo**, an educational trading app for Gen Z.  
 
 Along the way, I've gained experience through:  
-- 💼 Work experience with **British Airways, the AIIB, Amazon, HUDJO, and Virgin Atlantic**  
-- 🧑‍🏫 Private tutoring in Computer Science, Maths and Physics  
-- 🚀 Building projects and participating in **Hackathons**  
-- ✈️ Developing my skills in **Computing, AI, and Aviation**  
+-  Work experience with **British Airways, the AIIB, Amazon, HUDJO, and Virgin Atlantic**  
+-  Private tutoring in Computer Science, Maths and Physics  
+-  Building projects and participating in **Hackathons**  
+-  Developing my skills in **Computing, AI, and Aviation**  
 
 ---
 
