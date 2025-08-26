@@ -26,6 +26,11 @@
   17 years old and building a future in tech.<br>
 </p>
 
+<p align="center">
+  ✍️ <a href="https://www.samuelforrest.me/blog"><b>My Computing, AI & Aviation Blog</b></a> <br>
+  📄 <a href="https://www.samuelforrest.me/assets/cv.pdf"><b>Download My CV</b></a>
+</p>
+
 <div align="center">
 
 <table>
@@ -52,15 +57,6 @@
   </tr>
 </table>
 </div>
-
----
-
-<p align="center">
-  ✍️ <a href="https://www.samuelforrest.me/blog"><b>My Computing, AI & Aviation Blog</b></a> <br>
-  📄 <a href="https://www.samuelforrest.me/assets/cv.pdf"><b>Download My CV</b></a>
-</p>
-
----
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=samuelforrest&show_icons=true&theme=tokyonight&hide=prs,contribs&count_private=true" height="170">
