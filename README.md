@@ -1,10 +1,27 @@
-<p align="center">
-  <img src="https://samuelforrest.me/assets/web-app-manifest-512x512.png" alt="Samuel Forrest Logo" width="120" style="filter: drop-shadow(0 0 15px #0ff);" />
-</p>
+# Hi, I'm Samuel Forrest 👋  
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=ffffff&center=true&vCenter=true&width=440&lines=Hey%2C+I%27m+Samuel+Forrest!;Welcome+to+my+GitHub!;Visit+my+Website!" alt="Typing SVG" />
-</h1>
+An aspiring **Software Engineer** and **Entrepreneur**, studying **Maths, Physics, Computer Science, and EPQ** at A Level.  
+Private Tutor & Web Developer. Applying to **Degree Apprenticeships** & **University**.  
+
+---
+
+## About Me  
+
+I started coding when I was 10, adventuring into **HTML, CSS and JavaScript**.  
+Fast forward to now, I'm 17, studying A Levels at **St George's College, Weybridge**, while building **Tradelingo**, an educational trading app for Gen Z.  
+
+Along the way, I've gained experience through:  
+- 💼 Work experience with **British Airways, the AIIB, Amazon, HUDJO, and Virgin Atlantic**  
+- 🧑‍🏫 Private tutoring in Computer Science, Maths and Physics  
+- 🚀 Building projects and participating in **Hackathons**  
+- ✈️ Developing my skills in **Computing, AI, and Aviation**  
+
+---
+
+## Links  
+
+- ✍️ [My Computing, AI and Aviation Blog](#)  
+- 📄 [Download My CV](#)  
 <p align="center">
   <a href="https://www.linkedin.com/in/samueljforrest/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
