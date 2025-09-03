@@ -1,6 +1,6 @@
 <!-- ──────────────── HEADER ──────────────── -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=00CFFF&width=480&lines=Hi%2C+I'm+Samuel+Forrest+%F0%9F%91%8B;Aspiring+Software+Engineer;Entrepreneur+%7C+Web+Dev+%7C+Tutor" alt="Samuel Forrest Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=00CFFF&width=480&lines=Hi%2C+I'm+Samuel+Forrest+%F0%9F%91%8B;Aspiring+Software+Engineer;Entrepreneur+%7C+Web+Dev" alt="Samuel Forrest Typing SVG">
 </p>
 
 <!-- ──────────────── SKILLS ──────────────── -->
