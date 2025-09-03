@@ -19,7 +19,7 @@
 
 <p align="center">
   ✍️ <a href="https://www.samuelforrest.me/blog"><b>My Computing, AI & Aviation Blog</b></a> <br>
-  📄 <a href="https://www.samuelforrest.me/assets/cv.pdf"><b>Download My CV</b></a>
+  🌐 <a href="https://www.samuelforrest.me/f"><b>Website</b></a>
 </p>
 
 <div align="center">
