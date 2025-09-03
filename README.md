@@ -39,7 +39,7 @@
       <ul>
         <li>British Airways</li>
         <li>AIIB</li>
-        <li>Amazon</li>
+        <li>Bath Uni</li>
         <li>HUDJO</li>
         <li>Virgin Atlantic</li>
       </ul>
