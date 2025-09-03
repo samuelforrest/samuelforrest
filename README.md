@@ -32,7 +32,7 @@
 
 <p align="center">
   <sub>
-    <i>The best way to predict your future is to create it.” — Abraham Lincoln</i>
+    <i>"The best way to predict your future is to create it.” — Abraham Lincoln</i>
   </sub>
 </p>
 
