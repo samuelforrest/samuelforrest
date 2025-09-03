@@ -17,14 +17,6 @@
 </p>
 
 
-# About Me
-
-<p align="center">
-  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" alt="Coding" width="80"/><br>
-  <b>Began coding at age 10 with HTML, CSS & JavaScript.</b><br>
-  17 years old and building a future in tech.<br>
-</p>
-
 <p align="center">
   ✍️ <a href="https://www.samuelforrest.me/blog"><b>My Computing, AI & Aviation Blog</b></a> <br>
   📄 <a href="https://www.samuelforrest.me/assets/cv.pdf"><b>Download My CV</b></a>
@@ -32,29 +24,6 @@
 
 <div align="center">
 
-<table>
-  <tr>
-    <td align="center" width="50%">
-      <b>Work Experience</b>
-      <ul>
-        <li>British Airways</li>
-        <li>AIIB</li>
-        <li>Bath Uni</li>
-        <li>HUDJO</li>
-        <li>Virgin Atlantic</li>
-      </ul>
-    </td>
-    <td align="center" width="50%">
-      <b>Passions</b>
-      <ul>
-        <li>Private Tutoring (CS, Maths, Physics)</li>
-        <li>Hackathons</li>
-        <li>Computing, AI & Aviation</li>
-        <li>Building Projects</li>
-      </ul>
-    </td>
-  </tr>
-</table>
 </div>
 
 <p align="center">
@@ -63,7 +32,7 @@
 
 <p align="center">
   <sub>
-    <i>“Code your future. Learn relentlessly. Dream big.”</i>
+    <i>The best way to predict your future is to create it.” — Abraham Lincoln</i>
   </sub>
 </p>
 
