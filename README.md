@@ -18,8 +18,8 @@
 
 
 <p align="center">
-  ✍️ <a href="https://www.samuelforrest.me/blog"><b>My Computing, AI & Aviation Blog</b></a> <br>
-  🌐 <a href="https://www.samuelforrest.me/f"><b>Website</b></a>
+  ✍️ <a href="https://samueljforrest.substack.com"><b>My Computing, AI & Aviation Blog</b></a> <br>
+  🌐 <a href="https://www.samuelforrest.me/"><b>Website</b></a>
 </p>
 
 <div align="center">
