@@ -5,7 +5,7 @@
 
 <!-- ──────────────── SKILLS ──────────────── -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,html,css,figma,github,vscode" alt="Skills" height="40" />
+  <img src="https://skillicons.dev/icons?i=python,js,html,css,figma,github,vscode,git,instagram,linkedin,supabase" alt="Skills" height="40" />
 </p>
 
 <!-- ──────────────── INTRO ──────────────── -->
