@@ -1,7 +1,7 @@
 <!-- ──────────────── HEADER ──────────────── -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=00CFFF&width=480&lines=Hi%2C+I'm+Samuel+Forrest+%F0%9F%91%8B;Aspiring+SWE;Entrepreneur+%7C+Web+Dev" alt="Samuel Forrest Typing SVG">
-</p>
+<h1 align="center">
+  Hi, I'm Samuel Forrest
+</h1>
 
 <!-- ──────────────── SKILLS ──────────────── -->
 <p align="center">
