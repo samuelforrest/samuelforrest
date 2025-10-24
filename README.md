@@ -10,9 +10,11 @@
 
 <!-- ──────────────── INTRO ──────────────── -->
 <p align="center">
-  <b>Maths • Physics • Computer Science • EPQ @ St George's College, Weybridge</b><br>
+  A Level Maths & Physics & Computer Science & EPQ<br>
+  CTO @ Apprentadream<br>
+  Private Tutor @ Superprof<br>
+  Freelance Web Developer<br>
   Building <b>Tradelingo</b> — an educational trading app for Gen Z 🚀<br>
-  <b>Private Tutor</b> & <b>Web Developer</b><br>
   Applying for <b>Degree Apprenticeships</b> & <b>University</b>
 </p>
 
