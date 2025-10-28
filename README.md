@@ -14,7 +14,7 @@
   CTO @ Apprentadream<br>
   Private Tutor @ Superprof<br>
   Freelance Web Developer<br>
-  Building <b>Tradelingo</b> — an educational trading app for Gen Z 🚀<br>
+  Building <b>Tradelingo</b> — an educational trading app for Gen Z<br>
   Applying for <b>Degree Apprenticeships</b> & <b>University</b>
 </p>
 
