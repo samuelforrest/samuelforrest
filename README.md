@@ -31,9 +31,3 @@
   <img src="https://github-readme-stats.vercel.app/api?username=samuelforrest&show_icons=true&theme=tokyonight&hide=prs,contribs&count_private=true" height="170">
 </p>
 
-<p align="center">
-  <sub>
-    <i>"The best way to predict your future is to create it.” — Abraham Lincoln</i>
-  </sub>
-</p>
-
