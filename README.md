@@ -27,6 +27,8 @@
 
 </div>
 
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=samuelforrest)](https://github.com/anuraghazra/github-readme-stats)
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=samuelforrest&show_icons=true&theme=tokyonight&hide=prs,contribs&count_private=true&commits_year=2025" height="170">
 </p>
