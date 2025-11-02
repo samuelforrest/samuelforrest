@@ -22,10 +22,6 @@
   Applying for <b>Degree Apprenticeships</b> & <b>University</b>
 </p>
 
-<p align="center">
-  🚀 <a href="https://www.samuelforrest.me/"><b>Website</b></a>
-</p>
-
 <!-- ──────────────── WAKATIME & GITHUB STATS ──────────────── -->
 <div align="center">
 
