@@ -8,6 +8,10 @@
   <img src="https://skillicons.dev/icons?i=python,js,html,css,react,figma,github,vscode,git,instagram,linkedin,supabase,aws" alt="Skills" height="40" />
 </p>
 
+<div align="center">
+<a href="https://wakatime.com/@f3faa8c5-57c1-4c8d-ac94-db81efb9a8e8"><img src="https://wakatime.com/badge/user/f3faa8c5-57c1-4c8d-ac94-db81efb9a8e8.svg" alt="Total time coded since Jul 7 2025" /></a>
+</div>
+
 <!-- ──────────────── INTRO ──────────────── -->
 <p align="center">
   A Level Maths & Physics & Computer Science & EPQ<br>
