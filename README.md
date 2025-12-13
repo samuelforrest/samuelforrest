@@ -19,7 +19,7 @@
   Private Tutor @ Superprof<br>
   Freelance Web Developer<br>
   Building <b>Tradelingo</b> — an educational trading app for Gen Z<br>
-  Applying for <b>Degree Apprenticeships</b> & <b>University</b>
+  Interested in <b>Degree Apprenticeships</b>
 </p>
 
 <!-- ──────────────── WAKATIME & GITHUB STATS ──────────────── -->
