@@ -22,29 +22,4 @@
   Interested in <b>Degree Apprenticeships</b>
 </p>
 
-<!-- ──────────────── WAKATIME & GITHUB STATS ──────────────── -->
-<div align="center">
-
-  <!-- WT -->
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img 
-      src="https://github-readme-stats.vercel.app/api/wakatime?username=samuelforrest&theme=default&layout=compact&langs_count=6&custom_title=Weekly%20Coding%20Stats&hide_progress=false&border_radius=12&card_width=450" 
-      height="180" 
-      alt="WakaTime Stats"
-    />
-  </a>
-
-  <br><br>
-
-  <!-- Github Stats -->
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img 
-      src="https://github-readme-stats.vercel.app/api?username=samuelforrest&show_icons=true&theme=default&hide=prs,contribs&count_private=true&border_radius=12&card_width=450" 
-      height="180" 
-      alt="GitHub Stats"
-    />
-  </a>
-
-</div>
-
 
