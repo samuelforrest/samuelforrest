@@ -8,7 +8,7 @@ My main tech stack is next.js, typescript, tailwind, and supabase. My favorite t
 
 If you would like to connect on LinkedIn, [please click here](https://www.linkedin.com/in/samueljforrest/)!
 
-#### Positions:
+### Positions:
 
 * Freelance Developer @ Superprof
 * CTO @ Apprentadream
