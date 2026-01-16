@@ -10,7 +10,7 @@ If you would like to connect on LinkedIn, [please click here](https://www.linked
 
 ### Positions:
 
-* Freelance Developer @ Superprof
+* Freelance Developer @ Forrest Studio
 * CTO @ Apprentadream
 * Private Tutor @ Superprof
 
