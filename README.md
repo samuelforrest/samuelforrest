@@ -4,7 +4,7 @@ I’m [**Samuel Forrest**](https://www.samuelforrest.me), an A-level student pas
 
 I design and build whatever I can imagine.
 
-My current tech stack is next.js, typescript, tailwind, and supabase. My favorite tools are notion, github, and claude.
+My current tech stack is next.js, typescript, tailwind, vercel and supabase. My favorite tools are notion, github, chatgpt and claude.
 
 If you would like to connect on LinkedIn, [please click here](https://www.linkedin.com/in/samueljforrest/)!
 
