@@ -2,8 +2,6 @@
 
 I’m [**Samuel Forrest**](https://www.samuelforrest.co.uk), an A-level student passionate about modern web and application development.
 
-I design and build whatever I can imagine.
-
 My current tech stack is next.js, typescript, tailwind, vercel and supabase. My favorite tools are notion, github and google workspace.
 
 If you would like to connect on LinkedIn, [please click here](https://www.linkedin.com/in/samueljforrest/)!
