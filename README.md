@@ -1,5 +1,11 @@
 ### Hey there! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/> 
 
+<div>
+<a href="https://wakatime.com/@f3faa8c5-57c1-4c8d-ac94-db81efb9a8e8"><img src="https://wakatime.com/badge/user/f3faa8c5-57c1-4c8d-ac94-db81efb9a8e8.svg" alt="Total time coded since Jul 7 2025" /></a>
+</div>
+
+<br/>
+
 I’m [**Samuel Forrest**](https://www.samuelforrest.co.uk), an A-level student passionate about modern web and application development.
 
 My current tech stack is next.js, typescript, tailwind, vercel and supabase. My favorite tools are notion, github and google workspace.
@@ -20,8 +26,5 @@ If you would like to connect on LinkedIn, [please click here](https://www.linked
 </p>
 
 
-<div align="center">
-<a href="https://wakatime.com/@f3faa8c5-57c1-4c8d-ac94-db81efb9a8e8"><img src="https://wakatime.com/badge/user/f3faa8c5-57c1-4c8d-ac94-db81efb9a8e8.svg" alt="Total time coded since Jul 7 2025" /></a>
-</div>
 
 
