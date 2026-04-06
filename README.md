@@ -6,7 +6,7 @@
 
 <br/>
 
-I’m [**Samuel Forrest**](https://www.samuelforrest.co.uk), an A-level student passionate about modern web and application development.
+I’m [Samuel Forrest](https://www.samuelforrest.co.uk), an A-level student passionate about modern web and application development.
 
 My current tech stack is next.js, typescript, tailwind, vercel and supabase. My favorite tools are notion, github and google workspace.
 
