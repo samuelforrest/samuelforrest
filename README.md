@@ -6,19 +6,15 @@
 
 <br/>
 
-I’m [Samuel Forrest](https://www.samuelforrest.co.uk), an A-level student passionate about modern web and application development.
+Hi, I'm Samuel Forrest, a 17-year-old student in the UK, currently completing my A Levels, before joining Barclays in August as a Software Developer Degree Apprentice.
 
-My current tech stack is next.js, typescript, tailwind, vercel and supabase. My favorite tools are notion, github and google workspace.
+My main interest is software development, especially building fast, well-designed apps that run in the browser. My core tech stack is next.js, tailwind, supabase and typescript and I am familiar with using AI tools such as Claude Code to speed up development.
 
-If you would like to connect on LinkedIn, [please click here](https://www.linkedin.com/in/samueljforrest/)!
+Some of my key achievements include strong GCSE results of 9999999987, an A* in the EPQ and completing work experience British Airways, AAIB and HUDJO. Alongside this, I have completed freelance web development projects, done tutoring, and volunteered in the community.
 
-### Positions:
+Outside of school and work, I am a very ambitious and entrepreneurial person, creating apps and websites in my free time, and own over 10 domain names. I am currently in the process of launching a startup, ideally for September 2026.
 
-* Freelance Developer @ Forrest Studio
-* CTO @ Apprentadream
-* Private Tutor @ Superprof
-
-<br>
+In my free time I enjoy playing tennis, chess, watersports and the saxophone. Feel free to check out my LinkedIn, GitHub, and YouTube, or send me an email.
 
 
 <p align="center">
