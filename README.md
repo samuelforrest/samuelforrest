@@ -23,5 +23,20 @@
 - Verda
 - Tradelingo
 
+# Languages & Frameworks
+
+### What I enjoy
+
+- JavaScript & TypeScript
+- TailwindCSS & ShadcnUI
+- React (Next.js for websites, Vite for quick apps)
+- Supabase postgres databases
+
+### What I dislike
+
+- React Native
+- Using too much AI
+- Vanilla / plain CSS
+
 
 
