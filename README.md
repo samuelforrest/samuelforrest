@@ -31,6 +31,7 @@
 - TailwindCSS & ShadcnUI
 - React (Next.js for websites, Vite for quick apps)
 - Supabase postgres databases
+- Bun >>>> npm, pnpm
 
 ### What I dislike
 
