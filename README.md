@@ -1,27 +1,27 @@
 # Projects I've Build
 
-## Trying to build a startup
+### Trying to build a startup
 
-DAPS
-Vibe
-Fluc
-UK Finance Guide
-Screenfine
-Emailscore
-Dreamspire
-Arctic Shores
+- DAPS
+- Vibe
+- Fluc
+- UK Finance Guide
+- Screenfine
+- Emailscore
+- Dreamspire
+- Arctic Shores
 
-## Freelance projects
+### Freelance projects
 
-Sit Stop
-Apprentadream
-Bio News Weekly
-ZoeCC
+- Sit Stop
+- Apprentadream
+- Bio News Weekly
+- ZoeCC
 
-## Fun and Learning
+### Fun and Learning
 
-Verda
-Tradelingo
+- Verda
+- Tradelingo
 
 
 
