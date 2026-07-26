@@ -2,7 +2,8 @@
 
 ### Startup Attempts
 
-- DAPS (Degree Apprenticeship tracker with nice UI)
+- DAPS (Degree Apprenticeship search with nice UI)
+- Trackr (Degree Apprenticeship Tracker with nice UI)
 - Vibe (Lovable alternative v2)
 - Sitro (Lovable alternative v1)
 - UK Finance Guide (Markdown-based guide teaching personal finance)
