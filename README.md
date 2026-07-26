@@ -23,7 +23,7 @@
 - Verda (Hackathon-winning environmental project)
 - Tradelingo (Duolingo for learning to invest long-term)
 - Python (Hundreds of small Python projects)
-- React Native (Frustrating projects)
+- React Native (Frustrating projects that would barely run on Expo)
 
 # Languages & Frameworks
 
