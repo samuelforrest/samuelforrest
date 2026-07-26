@@ -13,15 +13,15 @@
 
 ### Paid Freelance Projects
 
-- Sit Stop
-- Apprentadream
-- Bio News Weekly
-- ZoeCC
+- Sit Stop (Charity website)
+- Apprentadream (Apprentadream community signup website)
+- Bio News Weekly (Biology news site website)
+- ZoeCC (Cat carer's website)
 
 ### Fun & Learning
 
-- Verda
-- Tradelingo
+- Verda (Hackathon-winning environmental project)
+- Tradelingo (Duolingo for learning to invest long-term)
 
 # Languages & Frameworks
 
@@ -37,6 +37,7 @@
 - React Native
 - Using too much AI
 - Vanilla / plain CSS
+- Plain SQL
 
 
 
