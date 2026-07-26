@@ -1,6 +1,6 @@
 # Projects I've Build
 
-### Attempts to build startups
+### Startup Attempts
 
 - DAPS
 - Vibe
