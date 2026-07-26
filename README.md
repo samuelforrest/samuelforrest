@@ -4,7 +4,7 @@
 
 - DAPS (Degree Apprenticeship tracker with nice UI)
 - Vibe (Lovable alternative v2)
-- Fluc (Lovable alternative v1)
+- Sitro (Lovable alternative v1)
 - UK Finance Guide (Markdown-based guide teaching personal finance)
 - Screenfine (An iOS app forcing you to pay to overcome screentime limits)
 - Emailscore (Email deliverability tester)
