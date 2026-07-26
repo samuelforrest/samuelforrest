@@ -1,6 +1,6 @@
 # Projects I've Build
 
-### Trying to build a startup
+### Attempts to build startups
 
 - DAPS
 - Vibe
@@ -11,14 +11,14 @@
 - Dreamspire
 - Arctic Shores
 
-### Freelance projects
+### Paid Freelance Projects
 
 - Sit Stop
 - Apprentadream
 - Bio News Weekly
 - ZoeCC
 
-### Fun and Learning
+### Fun & Learning
 
 - Verda
 - Tradelingo
