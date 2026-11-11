@@ -2,4 +2,4 @@
 
 Hi, I am a software engineer at Barclays.
 
-I enjoy infrastructure and backend engineering.
+Im an ambitious generalist engineer who is interested in the full stack, from frontend, backend to infrastructure and cloud.
